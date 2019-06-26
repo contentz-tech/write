@@ -1,7 +1,7 @@
 {
   "name": "@contentz/write",
   "description": "Write a new Contentz article",
-  "version": "3.13.1",
+  "version": "3.13.2",
   "main": "src/index.js",
   "bin": {
     "contentz-write": "./cli.js"
